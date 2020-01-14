@@ -7,4 +7,4 @@ to install docker compose you have to install docker first
 
 
 installing docker from docker documentation websit https://docs.docker.com/install/linux/docker-ce/ubuntu/   
-installing docker compose from docker from docker documentation websit https://docs.docker.com/compose/install/
+installing docker compose from docker documentation websit https://docs.docker.com/compose/install/
