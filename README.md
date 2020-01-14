@@ -1,1 +1,1 @@
-# install_docker_compose_ubuntu
+# Install docker and docker compose in ubuntu using shell scrip
